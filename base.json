@@ -1,1 +1,66 @@
 
+{
+  "name": "Testing List",
+  "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/compound-interface.svg",
+  "keywords": [
+    "compound",
+    "defi"
+  ],
+  "timestamp": "2021-05-27T20:37:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0x4B1F1e2435A9C96f7330FAea190Ef6A7C8D70001",
+      "name": "Sushiswap",
+      "symbol": "USDT/USDC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12271/small/512x512_Logo_no_chop.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
+      "name": "CRV",
+      "symbol": "CRV",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12271/small/512x512_Logo_no_chop.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x5A1DcaBD1C78E9b7Ed55b1c602A22D6Cad7a72F0",
+      "name": "OmniZAP",
+      "symbol": "ZAP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12271/small/512x512_Logo_no_chop.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x232D169D611CF01701c71c390cd5E6F7611DECb5",
+      "name": "BOND-TEST2",
+      "symbol": "BOND2",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12271/small/512x512_Logo_no_chop.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+      "name": "Wrapped MATIC",
+      "symbol": "WMATIC",
+      "decimals": 18,
+      "logoURI": "https://polygonscan.com/token/images/wMatic_32.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x379428D03c855f6Ef0f472CfeDe724fd6F7B609A",
+      "name": "BOND-TEST",
+      "symbol": "BOND",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12271/small/512x512_Logo_no_chop.png"
+    }
+  ],
+
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  }
+}
