@@ -1,0 +1,83 @@
+{
+  "categories": [
+    {
+      "title": "AI-Chats",
+      "chatId": "0",
+      "type": "chats",
+      "icon": "IconCodeDots",
+      "color": "blue",
+      "href": "#",
+      "docs": "#"
+    },
+    {
+      "title": "Solidity utils",
+      "chatId": "1",
+      "type": "devs",
+      "icon": "IconCode",
+      "color": "blue",
+      "href": "#",
+      "docs": "#"
+    },
+    {
+      "title": "Builder",
+      "chatId": "1",
+      "type": "devs",
+      "icon": "IconCode",
+      "color": "blue",
+      "href": "#",
+      "docs": "#"
+    }
+  ],
+  "chats": [
+    {
+      "value": "Development Chat",
+      "label": "Development Chat",
+      "group": "development",
+      "description": "test-description"
+    },
+    {
+      "value": "Solidity Dev Chat",
+      "label": "Solidity Dev Chat",
+      "group": "development",
+      "description": "test-description"
+    },
+    {
+      "value": "Business Chat",
+      "label": "Business Chat",
+      "group": "business",
+      "description": "test-description"
+    },
+    {
+      "value": "Blank Chat",
+      "label": "Blank Chat",
+      "group": "blank",
+      "description": "test-description"
+    }
+  ],
+  "plugins": [
+    {
+      "value": "NatspecContract",
+      "label": "NatspecContract",
+      "group": "Natspec",
+      "description": "test-description"
+    },
+    {
+      "value": "NatspecFunction",
+      "label": "NatspecFunction",
+      "group": "Natspec",
+      "description": "test-description"
+    },
+    {
+      "value": "ContractOptimizer",
+      "label": "ContractOptimizer",
+      "group": "Optimize",
+      "description": "test-description"
+    },
+    {
+      "value": "Abi2Sol",
+      "label": "Abi2Sol",
+      "group": "Utility",
+      "description": "test-description"
+    }
+  ]
+}
